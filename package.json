@@ -1,0 +1,27 @@
+{
+  "name": "seegoaction.github.io",
+  "version": "0.1.0",
+  "description": "Go in action",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs": "docsify serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeeGoaction/seegoaction.github.io.git"
+  },
+  "keywords": [
+    "Golang",
+    "够浪"
+  ],
+  "author": "stim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SeeGoaction/seegoaction.github.io/issues"
+  },
+  "homepage": "https://github.com/SeeGoaction/seegoaction.github.io#readme"
+}
